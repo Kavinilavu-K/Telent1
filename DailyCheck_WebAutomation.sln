@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyCheck_WebAutomation", "DailyCheck_WebAutomation\DailyCheck_WebAutomation.csproj", "{A80FCC3B-97B8-400E-A06B-A204D682909A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80FCC3B-97B8-400E-A06B-A204D682909A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80FCC3B-97B8-400E-A06B-A204D682909A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80FCC3B-97B8-400E-A06B-A204D682909A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80FCC3B-97B8-400E-A06B-A204D682909A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FAFEFE-C7F0-4A77-ACFB-29FD8DEEC04B}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.themdu.com:9060/tfs/mdu
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DailyCheck_WebAutomation\\DailyCheck_WebAutomation.csproj
+		SccProjectName1 = DailyCheck_WebAutomation
+		SccLocalPath1 = DailyCheck_WebAutomation
+	EndGlobalSection
+EndGlobal
